@@ -6,9 +6,8 @@ using Model;
 using Model.Config;
 using UnityEngine;
 using Utilities;
-//hell0
-//How are you?
-//i'm fine
+//удаленные комменты
+
 namespace Controller
 {
     public class BotController
